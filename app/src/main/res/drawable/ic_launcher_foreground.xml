@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Octagon Cyber Border -->
+    <path
+        android:pathData="M38,24 L70,24 L84,38 L84,70 L70,84 L38,84 L24,70 L24,38 Z"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"/>
+    <!-- Inner Hex Box/APK Box -->
+    <path
+        android:pathData="M54,32 L74,42 L74,66 L54,76 L34,66 L34,42 Z"
+        android:fillColor="#121824"
+        android:strokeColor="#00FF66"
+        android:strokeWidth="2"/>
+    <!-- Top Box Lid Facet -->
+    <path
+        android:pathData="M54,32 L74,42 L54,52 L34,42 Z"
+        android:fillColor="#1E2A38"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1"/>
+    <!-- Box Center Seam -->
+    <path
+        android:pathData="M54,52 L54,76"
+        android:strokeColor="#00FF66"
+        android:strokeWidth="1.5"/>
+    <!-- Lightning Auto-Update Bolt Overlay -->
+    <path
+        android:pathData="M58,38 L44,54 L52,54 L48,70 L64,52 L55,52 Z"
+        android:fillColor="#00FF66"
+        android:strokeColor="#000000"
+        android:strokeWidth="0.8"/>
+</vector>

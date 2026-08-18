@@ -1,0 +1,6 @@
+{
+  "name": "Devator AutoAPK",
+  "description": "Online APK Maker & Automated Update Deployer tool powered by Cyber-Brutalist Devator mutation swarm engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
